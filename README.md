@@ -55,7 +55,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=JefferssonAllves&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JefferssonAllves&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JefferssonAllves&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![Profile Views](https://komarev.com/ghpvc/?username=JefferssonAllves&color=0e75b6)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&lines=Software+Developer;Backend+Focus)
 
 ## 🏆 GitHub Trophies
 
