@@ -1,6 +1,15 @@
 # 💫 About Me:
-Desenvolvedor full-stack com foco em back-end, interessado em arquitetura de sistemas, lógica e construção de soluções completas e bem estruturadas.
+:telescope: Atuando no desenvolvimento full-stack, com foco em back-end e arquitetura de sistemas.
 
+:handshake: Interesse em colaborar em projetos open-source, APIs, sistemas distribuídos e aplicações escaláveis.
+
+:raising_hand: Buscando evoluir em arquitetura de software, padrões de projeto e boas práticas.
+
+:seedling: Estudando algoritmos, estruturas de dados e funcionamento interno de sistemas.
+
+:speech_balloon: Pergunte-me sobre back-end, integração entre sistemas e ambientes Linux.
+
+:zap: Curiosidade: priorizo entender o funcionamento interno antes da implementação.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeffialves_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersson-kauan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeffersson.dev@gmail.com) 
