@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=FF00FF&lines=Software+Developer;Backend+Focused;APIs+and+Systems+Development;Problem+Solver;Always+Learning)
+
+
 # 💫 About Me:
 :telescope: Atuando no desenvolvimento full-stack, com foco em back-end e arquitetura de sistemas.
 
@@ -55,7 +58,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JefferssonAllves&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JefferssonAllves&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JefferssonAllves&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&lines=Software+Developer;Backend+Focus)
 
 ## 🏆 GitHub Trophies
 
