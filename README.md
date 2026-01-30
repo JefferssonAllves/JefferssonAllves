@@ -29,4 +29,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Snake animation](https://github.com/JefferssonAllves/JefferssonAllves/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JefferssonAllves/JefferssonAllves/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/JefferssonAllves/JefferssonAllves/output/github-contribution-grid-snake.svg">
+</picture>
