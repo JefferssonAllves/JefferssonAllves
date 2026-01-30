@@ -16,7 +16,8 @@ jobs:
         with:
           github_user_name: JefferssonAllves
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-high-contrast
+            dist/github-contribution-grid-snake.svg?palette=github-dark&background=transparent
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&background=transparent
 
 
       - uses: crazy-max/ghaction-github-pages@v4
