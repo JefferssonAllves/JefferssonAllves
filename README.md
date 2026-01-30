@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JefferssonAllves&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=JefferssonAllves&theme=darkhub&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=JefferssonAllves&theme=darkhub&no-frame=true&row=1)
 
 
 ---
